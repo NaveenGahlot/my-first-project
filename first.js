@@ -1,1 +1,1 @@
-console.log("MK Jaat");
+console.log("MK Jat");

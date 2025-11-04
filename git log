@@ -1,0 +1,9 @@
+[1mdiff --git a/first.js b/first.js[m
+[1mindex 86652fe..494aaed 100644[m
+[1m--- a/first.js[m
+[1m+++ b/first.js[m
+[36m@@ -1 +1 @@[m
+[31m-console.log("MK Jaat");[m
+\ No newline at end of file[m
+[32m+[m[32mconsole.log("MK Jat");[m
+\ No newline at end of file[m
